@@ -13,7 +13,7 @@ Instructions:
 I have tried to keep this as simple as possible (no external dependencies), hence the use of my own assertEquals function.
 
 All one has to do is:
-javac Solution.java
+javac Solution.java /
 java Solution
 
 Time spent: around 35 minutes.
